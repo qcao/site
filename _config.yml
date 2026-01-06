@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qiong Cao"
 description              : ""
-url                      : "https://qiongcao_psych.github.io/"
+url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,33 +107,33 @@ analytics:
 author:
   name             : "Qiong Cao"
   avatar           : "/assets/images/QCLabProfilePhoto.jpeg"
-  bio              : "Ph.D. candidate at Johns Hopkins University"
-  location         : "Baltimore, Maryland, USA"
-  # email            : "qcao14"
+  bio              : "Postdoctoral Fellow at MIT"
+  location         : "Cambridge, Massachusetts, USA"
+  email            : "qcao246 AT mit.edu"
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=o40XJMkAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/qiong-cao"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/qiongcao.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/QiongCao_Ivy"
+      url: "https://twitter.com/QiongCao_cogpsy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/qcao"
-#    - label: "OSF"
-#      icon: "fab fa-fw fa-osf"
-#      url: "https://osf.io/8hqj3/"
+    - label: "OSF"
+      icon: "fab fa-fw fa-osf"
+      url: "https://osf.io/8hqj3/"
 
 # Site Footer
 footer:
   links:
-    - label: ""
-      icon: "fab fa-fw fa-twitter-square"
-      url:  "https://twitter.com/QiongCao_Ivy"
-    - label: ""
-      icon: "fab fa-fw fa-github"
-      url:  "https://github.com/qcao"
-
+    - label: "The only true wisdom is in knowing you know nothing. -- Socrates"
 
 # Reading Files
 include:
