@@ -18,7 +18,7 @@ This is a self-proposed upper level undergraduate course through the Dean's Teac
 
 In this course, we will tackle questions about the mind and intelligence in different cognitive systems. To explore the origins of human intelligence, we will examine early cognitive abilities in human infants. To better understand what makes human thinking similar to and different from that of other complex systems, we will dive into research on non-human animals and artificial intelligence. We will start with discussions of topics such as “What counts as intelligence?” and “How does learning occur?” Then we will consider how different cognitive systems might work by exploring five cognitive abilities known to be important for human cognition: intuitive physics, intuitive psychology, numerical cognition, causal reasoning, and language.
 
-You can find the syllabus [here](https://docs.google.com/document/d/1lsBvrpyafprQYvmMqwe2Oq2z07IKs8N_mnTaebRnhFE/edit?usp=drive_link).
+You can find the syllabus [here](https://docs.google.com/document/d/1N2uFZlSRtcTtAe7qCRmnQX8HQFa0vXM-/edit?usp=sharing&ouid=113851412502107656641&rtpof=true&sd=true).
 
 
 
