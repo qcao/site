@@ -10,6 +10,7 @@ My research focuses on how children and adults use prediction error to guide the
 
 I take an interdisciplinary approach to studying the role of prediction error in human inference, using both behavioral and computational methods, studying both children and adults, and examining both typical and atypical development, such as in autism.
 
+
 # Prediction error guides belief revision
 
 ## Absence as evidence for hypothesis updating in dynamic prediction tasks
@@ -25,6 +26,7 @@ For many people, prediction feels automatic: we know where a ball will roll, or 
 Ever shared a birthday with a colleague or bumped into an old friend in the most unexpected place? Coincidences like these intrigue us and make us wonder, "Why did this happen?" In this project, we seek to understand how adults and children represent coincidences, with a particular focus on the role of available explanations and the number of co-occurrences in shaping these judgments. Our results suggest that representations of coincidence are present early in life, though they continue to develop through the early school-age years.
 
 Check out our paper [here](https://www.sciencedirect.com/science/article/pii/S0010027724001409?ref=pdf_download&fr=RR-2&rr=a1738fee9d0f8e3e).
+
 
 # Prediction error guides selective learning
 
@@ -50,6 +52,7 @@ Surprise, and its cognitive consequences, is likely graded in nature and closely
 
 Check out our CogSci paper [here](https://escholarship.org/content/qt5783720j/qt5783720j.pdf).
 
+
 # Prediction in social reasoning
 
 ## Predicting others' competence and performance
@@ -58,7 +61,9 @@ Check out our CogSci paper [here](https://escholarship.org/content/qt5783720j/qt
 
 People are one of the most important information sources children have. Children want to learn from the more competent and knowledgeable person, yet what people do isn't always reflective of what they're capable of doing. In the face of this competence-performance gap, children are challenged to predict a person's actual performance by considering both their competence and other factors that might influence their performance in the moment. Sometimes children's predictions about someone's performance turn out to be wrong, prompting them to revise their initial belief about how competent that person is.
 
-In this project, we explore children's inference of others' competence and performance, particularly how external constraints affect it. Our general approach is to ask children to predict how people will perform under different circumstances, such as having blocked vision or being distracted by a phone call. We find that even 4-year-olds can make correct inferences in a forced-choice task. In addition, even 20-month-olds already expect that being distracted by a phone call will impair someone's performance. Check out our paper [here](https://onlinelibrary.wiley.com/doi/10.1111/infa.70015), with another currently in preparation.
+In this project, we explore children's inference of others' competence and performance, particularly how external constraints affect it. Our general approach is to ask children to predict how people will perform under different circumstances, such as having blocked vision or being distracted by a phone call. We find that even 4-year-olds can make correct inferences in a forced-choice task. In addition, even 20-month-olds already expect that being distracted by a phone call will impair someone's performance. 
+
+Check out our paper [here](https://onlinelibrary.wiley.com/doi/10.1111/infa.70015), with another currently in preparation.
 
 # Other research interests
 
@@ -76,10 +81,14 @@ We are currently testing an alternative approach using a preferential-looking pa
 
 *Keywords: individual differences, habituation, dishabituation, large-scale datasets*
 
-Habituation and dishabituation allow learners to filter out repetitive information and orient toward novelty. Past studies have linked variability in these processes to differences in later cognitive outcomes. Here, we used large-scale datasets from prior studies to examine how individual differences in habituation predict the magnitude of dishabituation in infants, preschoolers, and adults. We found that faster habituation and higher volatility predicted stronger dishabituation. We also found that different measures of dishabituation sometimes produce divergent patterns, suggesting that measurement choices can meaningfully shape observed effects and should be considered carefully in developmental research. Check out our CogSci paper [here](https://escholarship.org/content/qt9p29h5gj/qt9p29h5gj.pdf).
+Habituation and dishabituation allow learners to filter out repetitive information and orient toward novelty. Past studies have linked variability in these processes to differences in later cognitive outcomes. Here, we used large-scale datasets from prior studies to examine how individual differences in habituation predict the magnitude of dishabituation in infants, preschoolers, and adults. We found that faster habituation and higher volatility predicted stronger dishabituation. We also found that different measures of dishabituation sometimes produce divergent patterns, suggesting that measurement choices can meaningfully shape observed effects and should be considered carefully in developmental research. 
+
+Check out our CogSci paper [here](https://escholarship.org/content/qt9p29h5gj/qt9p29h5gj.pdf).
 
 ## What does surprise reflect? Conceptual vs. perceptual factors in dishabituation
 
 *Keywords: surprise, habituation, dishabituation, looking time*
 
 When people are surprised and look longer at what they're viewing, what does that surprise actually reflect? Low-level perceptual features, or something beyond mere perception? Here, we conducted an exploratory analysis of data from a habituation-dishabituation study (e.g., bird → garlic). We compared looking-time changes for the same pair of stimuli presented in opposite change directions (bird → garlic vs. garlic → bird). If people were relying purely on perceptual features, the same pair of objects should elicit the same degree of surprise regardless of direction, since the perceptual distance between them is identical either way. Yet we found that adults did not treat the two directions as simple reciprocal transformations — for instance, they looked longer at a magical appearance than at a disappearance. This asymmetry in looking time suggests that people were weighing non-perceptual factors even in a simple, image-based habituation-dishabituation study.
+
+Check out our CogSci paper [here](https://escholarship.org/content/qt9p29h5gj/qt9p29h5gj.pdf).
