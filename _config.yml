@@ -16,11 +16,11 @@ minimal_mistakes_skin  : "air" # "air", "aqua", "contrast", "dark", "dirt", "neo
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiong Cao"
+title                    : "Qiong Cao - Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qiong Cao"
-description              : ""
+description              : "Academic website of Qiong Cao, MIT Postdoctoral Fellow studying cognitive development, inference, and learning."
 url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -120,9 +120,9 @@ author:
     # - label: "BlueSky"
     #   icon: "fab fa-fw fa-bluesky"
     #   url: "https://bsky.app/profile/qiongcao.bsky.social"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/QiongCao_cogpsy"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/QiongCao_cogpsy"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/qcao"
