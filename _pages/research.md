@@ -11,15 +11,15 @@ My research focuses on how children and adults use prediction error to guide the
 I take an interdisciplinary approach to studying the role of prediction error in human inference, using both behavioral and computational methods, studying both children and adults, and examining both typical and atypical development, such as in autism.
 
 
-# Prediction error guides belief revision
+## Prediction error guides belief revision
 
-## Absence as evidence for hypothesis updating in dynamic prediction tasks
+### Absence as evidence for hypothesis updating in dynamic prediction tasks
 
 *Keywords: prediction, hypothesis updating, absence as evidence*
 
 For many people, prediction feels automatic: we know where a ball will roll, or what a friend will do when she picks up her keys. For autistic people, however, prediction may work differently, especially in social situations. Currently, I'm exploring the foundations of prediction in autistic and typically developing children and adults regarding physical objects' movements. Specifically, we are interested in how people use the absence, rather than the presence, of direct visual information about a target object at an expected time and location. For instance, if you see a ball roll under a table, you might expect it to reappear on the left side. But after waiting a while and not seeing it reappear there, the mismatch between expectation and reality prompts you to consider alternative hypotheses, such as the ball bouncing off a table leg and rolling in a different direction.
 
-## Detecting suspicious patterns and finding reasons: children's representations of coincidence
+### Detecting suspicious patterns and finding reasons: children's representations of coincidence
 
 *Keywords: coincidence, causal reasoning, explanation, belief revision*
 
@@ -28,9 +28,9 @@ Ever shared a birthday with a colleague or bumped into an old friend in the most
 Check out our paper [here](https://www.sciencedirect.com/science/article/pii/S0010027724001409?ref=pdf_download&fr=RR-2&rr=a1738fee9d0f8e3e).
 
 
-# Prediction error guides selective learning
+## Prediction error guides selective learning
 
-## Learning after observing unexpected behavior from people
+### Learning after observing unexpected behavior from people
 
 *Keywords: surprise-induced learning, social learning, violation of expectations*
 
@@ -42,7 +42,7 @@ In a series of experiments, we explore the learning consequences of witnessing v
 
 Check out our paper [here](https://www.sciencedirect.com/science/article/pii/S0010027725001672).
 
-## Optimal surprise for learning
+### Optimal surprise for learning
 
 *Keywords: violation of expectation, surprise-induced learning, explanation*
 
@@ -53,9 +53,9 @@ Surprise, and its cognitive consequences, is likely graded in nature and closely
 Check out our CogSci paper [here](https://escholarship.org/content/qt5783720j/qt5783720j.pdf).
 
 
-# Prediction in social reasoning
+## Prediction in social reasoning
 
-## Predicting others' competence and performance
+### Predicting others' competence and performance
 
 *Keywords: competence, performance, constraints, reasoning*
 
@@ -65,11 +65,11 @@ In this project, we explore children's inference of others' competence and perfo
 
 Check out our paper [here](https://onlinelibrary.wiley.com/doi/10.1111/infa.70015), with another currently in preparation.
 
-# Other research interests
+## Other research interests
 
 I'm also interested more broadly in improving the tools we use to study human cognition, especially in infants, who are tricky to study yet hold the key to so many mysteries of human intelligence. This includes the following methods-focused projects.
 
-## Using preferential looking to detect violation-of-expectation effects
+### Using preferential looking to detect violation-of-expectation effects
 
 *Keywords: violation of expectation, preferential looking, methods*
 
@@ -77,7 +77,7 @@ The violation-of-expectation (VoE) paradigm has been widely used to study infant
 
 We are currently testing an alternative approach using a preferential-looking paradigm, in which two stimuli are presented simultaneously on the left and right sides of a screen. We want to see whether infants show a preference between expected and unexpected videos, and what factors shape that preference across trials. Stay tuned!
 
-## Individual differences in habituation and dishabituation
+### Individual differences in habituation and dishabituation
 
 *Keywords: individual differences, habituation, dishabituation, large-scale datasets*
 
@@ -85,10 +85,10 @@ Habituation and dishabituation allow learners to filter out repetitive informati
 
 Check out our CogSci paper [here](https://escholarship.org/content/qt9p29h5gj/qt9p29h5gj.pdf).
 
-## What does surprise reflect? Conceptual vs. perceptual factors in dishabituation
+### What does surprise reflect? Conceptual vs. perceptual factors in dishabituation
 
 *Keywords: surprise, habituation, dishabituation, looking time*
 
 When people are surprised and look longer at what they're viewing, what does that surprise actually reflect? Low-level perceptual features, or something beyond mere perception? Here, we conducted an exploratory analysis of data from a habituation-dishabituation study (e.g., bird → garlic). We compared looking-time changes for the same pair of stimuli presented in opposite change directions (bird → garlic vs. garlic → bird). If people were relying purely on perceptual features, the same pair of objects should elicit the same degree of surprise regardless of direction, since the perceptual distance between them is identical either way. Yet we found that adults did not treat the two directions as simple reciprocal transformations — for instance, they looked longer at a magical appearance than at a disappearance. This asymmetry in looking time suggests that people were weighing non-perceptual factors even in a simple, image-based habituation-dishabituation study.
 
-Check out our CogSci paper [here](https://escholarship.org/content/qt9p29h5gj/qt9p29h5gj.pdf).
+Check out our CogSci paper [here](https://escholarship.org/content/qt2bz2c904/qt2bz2c904.pdf).
